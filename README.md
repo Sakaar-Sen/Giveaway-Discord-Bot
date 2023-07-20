@@ -4,7 +4,7 @@ The Discord Lottery Bot is a Python-based bot designed to host giveaways in Disc
 # Key Features:
 
 1. Giveaway Setup: 
-Users initiate a giveaway by typing "!lottery" followed by the desired duration (in minutes) as a command in the server. eg !lottery 10 (winner will be picked after 10 minutes)
+Users initiate a giveaway by typing "!lottery" followed by the desired duration (in minutes) as a command in the server. eg !lottery 10 (Default is 1 min)
 2. Duration Control:
   The bot calculates the end time of the giveaway based on the specified duration and displays the end time in a user-friendly format.
 4. Participation: Users react to the giveaway message with a specific emoji (e.g., "👻") to enter the giveaway.
