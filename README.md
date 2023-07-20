@@ -14,8 +14,8 @@ Users initiate a giveaway by typing "!lottery" followed by the desired duration 
 
 # Images
 
-<img src="./UI/img1.png" alt="1">
-<img src="./UI/img2.png" alt="1">
+<img src="./SS/img1.png" alt="1">
+<img src="./SS/img2.png" alt="1">
 
 
 # Usage
