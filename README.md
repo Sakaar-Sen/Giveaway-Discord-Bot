@@ -1,7 +1,7 @@
 # Giveaway-Discord-Bot
 
 ## Description
-The Discord Lottery Bot is a Python-based bot designed to host giveaways in Discord servers. The bot uses the Discord.py library and discord.ext.commands to create and manage the lottery. It allows users to initiate a giveaway by typing "!lottery" in the server, and then the bot announces the giveaway with a set duration. Users can react to the giveaway message with a designated emoji to participate.
+The Discord Lottery Bot is a Python-based bot designed to host giveaways in Discord servers. The bot uses the Discord.py library to create and manage the lottery. It allows users/admins to initiate a giveaway by typing "!lottery" in the server, and then the bot announces the giveaway with a set duration. Users can react to the giveaway message with a designated emoji to participate.
 
 # Key Features:
 
