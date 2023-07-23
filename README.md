@@ -1,5 +1,5 @@
 # Description
-The bot uses the Discord.py library to create and manage the lottery. It allows users/admins to initiate a giveaway by typing "!lottery" in the server, and then the bot announces the giveaway with a set duration. Users can react to the giveaway message with a designated emoji to participate.
+It allows users/admins to initiate a giveaway by typing "!lottery" in the server, and then the bot announces the giveaway with a set duration. Users can react to the giveaway message with a designated emoji to participate.
 
 # Key Features:
 
